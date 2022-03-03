@@ -51,9 +51,7 @@ form input[type="submit"]:hover{
     padding-bottom: 25px;
     border-radius: 5px;
     transition: 0.3s;
-    display: none;
-    
-    
+    display: none; 
 }
 
 .result .title{
@@ -81,9 +79,9 @@ form input[type="submit"]:hover{
     display: flex;
    justify-content: center;
     flex-direction: column;
-    margin-top: 20px;
-   
+    margin-top: 20px; 
 }
+
 .temp-img span{
     position: relative;
     bottom: -15px;
@@ -109,14 +107,12 @@ form input[type="submit"]:hover{
     height: 1px;
     transform-origin: left;
     transform: rotate(0deg);
-    
     background-color: white;
 }
 
 .warning{
     margin-top: 30px;
-    font-size: 20px;
-    
+    font-size: 20px;  
 }
 
 @media (max-width:665px){

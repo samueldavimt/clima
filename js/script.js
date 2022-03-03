@@ -1,3 +1,11 @@
+
+/*
+API: https://api.openweathermap.org/data/2.5/weather?q=${encodeURI(valueInput)}&appid=fc008fb8820b07de96392409bf104071&units=metric&lang=pt_br
+
+Info climate
+
+*/
+
 const qs = (e)=>{
     return document.querySelector(e)
 }
